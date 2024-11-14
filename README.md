@@ -20,4 +20,7 @@ This project includes:
 1. **Clone the repository**: This will copy the project to your computer.
    ```bash
    git clone https://github.com/yourusername/Customer_Segmentation_Model.git
+<<<<<<< HEAD
 
+=======
+>>>>>>>
